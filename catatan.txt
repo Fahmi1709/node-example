@@ -1,0 +1,6 @@
+readline-sync tidak ada
+jadi barusan diinstall
+
+caranya
+
+npm install --save readline-sync
